@@ -1,7 +1,9 @@
 💊 Smart Medicine Reminder (ESP32 + C + OLED)
+
 This project is a Smart Medicine Reminder built on the ESP32 platform using pure C with ESP-IDF, without Arduino libraries. It helps patients or caretakers ensure timely medicine intake through visual, audio, and interactive alerts.
 
 🧠 Features
+
 ⏰ Automatic reminders at regular intervals.
 
 🔔 Buzzer and LED alert when it's time to take medicine.
