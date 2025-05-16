@@ -39,10 +39,11 @@ Every 15 seconds (simulated period), the device reminds the user to take medicin
 
 The OLED displays a message, and the buzzer + LED activate.
 
-LINK TO PROJECT - https://wokwi.com/projects/431114126491837441
-
 The user must press the button within 10 seconds.
 
 If confirmed: alert stops, OLED shows confirmation.
 
 If not: buzzer stops, and a "dose missed" warning is displayed.
+
+
+LINK TO PROJECT - https://wokwi.com/projects/431114126491837441
